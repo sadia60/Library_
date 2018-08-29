@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  isbn: MyText
+  auther: MyString
+  publisher: MyText
+  edition: MyText
+  cost: 1
+  copies: 1
+
+two:
+  name: MyString
+  isbn: MyText
+  auther: MyString
+  publisher: MyText
+  edition: MyText
+  cost: 1
+  copies: 1
